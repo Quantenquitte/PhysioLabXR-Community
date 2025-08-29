@@ -1,0 +1,9 @@
+{
+  "StreamName": "VR_BodySway_vr_data",
+  "ChannelNames": ["trial_time", "frame_nr", "render_call", "display_target",
+                    "head_x", "head_y", "head_z", "head_qx", "head_qy", "head_qz", "head_qw",
+                    "stim_pos_x", "stim_pos_y", "stim_pos_z", "stim_phase",
+                    "perturb_vec_x", "perturb_vec_y", "perturb_vec_z", "perturb_active",
+                    "trial_nr"],
+  "NominalSamplingRate": 90
+}
