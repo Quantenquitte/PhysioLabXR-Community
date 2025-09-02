@@ -1,0 +1,5 @@
+{
+  "StreamName": "devicename_Neon_Gaze",
+  "ChannelNames": ["x", "y", "PupilDiameter", "EyeballCenterX", "EyeballCenterY", "EyeballCenterZ"],
+  "NominalSamplingRate": 200
+}

@@ -1,0 +1,4 @@
+{
+  "StreamName": "devicename_Neon_Events",
+  "ChannelNames": ["event"]
+}

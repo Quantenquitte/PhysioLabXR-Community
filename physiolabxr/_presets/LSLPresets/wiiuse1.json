@@ -1,0 +1,5 @@
+{
+  "StreamName": "wiiuse1",
+  "ChannelNames": ["x"],
+  "NominalSamplingRate": 60
+}

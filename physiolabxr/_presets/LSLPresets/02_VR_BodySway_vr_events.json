@@ -1,0 +1,4 @@
+{
+  "StreamName": "VR_BodySway_vr_events",
+  "ChannelNames": ["event_string"]
+}

@@ -1,0 +1,4 @@
+{"ExperimentName": "vrlab",
+  "PresetStreamNames": ["VR_BodySway_vr_data", "wiiuse1", "devicename_Neon_Events", "devicename_Neon_Gaze",
+                        "KinectV2_body_0_joints", "KinectV2_body_1_joints", "KinectV2_body_2_joints", "KinectV2_body_3_joints",
+                        "KinectV2_body_4_joints", "KinectV2_body_5_joints"]}
